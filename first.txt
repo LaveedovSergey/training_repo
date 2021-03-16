@@ -1,1 +1,2 @@
 My First Git file
+Second text
